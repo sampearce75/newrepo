@@ -1,2 +1,3 @@
 Another file added to the repository
 Added line
+Added third line
