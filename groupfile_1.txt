@@ -1,2 +1,4 @@
 Group added file 1
 -- add file group file 1
+
+Checking in feature 1
