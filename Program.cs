@@ -22,5 +22,7 @@ namespace MVCCoreApp
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+				
+				// adding some comments to program.cs
     }
 }

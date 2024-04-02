@@ -1,2 +1,3 @@
 Group added file 4
 -- added file 4 new version
+adding lines of context to group file 4
