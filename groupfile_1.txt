@@ -4,3 +4,5 @@ Group added file 1
 Checking in feature 1
 
 Checking out feature 1 03/27/2024
+
+Version 1.0.5
