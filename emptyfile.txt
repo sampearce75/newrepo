@@ -1,3 +1,15 @@
 This is a test
 
+<<<<<<< HEAD
 Adding more lines to empty lines....
+=======
+Test 2
+Test 3
+
+Test4, Test5, Test6
+
+Test 7
+Version V1.0.5
+
+This is my stashed file ok...
+>>>>>>> feature1

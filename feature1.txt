@@ -1,3 +1,9 @@
 New Branch file - feature 1
 
+<<<<<<< HEAD
 Adding data to new feature.
+=======
+Checking in feature 1
+
+Checking in featrue for V1.0.5
+>>>>>>> feature1

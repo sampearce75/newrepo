@@ -1,3 +1,12 @@
 Group added file 1
 -- add file group file 1
+<<<<<<< HEAD
 checking out this file for groupfile 1 for "MASTER!!!!"
+=======
+
+Checking in feature 1
+
+Checking out feature 1 03/27/2024
+
+Version 1.0.5
+>>>>>>> feature1
