@@ -7,3 +7,5 @@ Checking in feature 1
 
 Checking in featrue for V1.0.5
 >>>>>>> feature1
+
+Adding some data to commit for feature1.txt = 04/17/2024
